@@ -4,7 +4,7 @@
   "description": "ClassApp Dev Challenge",
   "main": "parser.js",
   "scripts": {
-    "test": "node parser.js"
+    "start": "node parser.js"
   },
   "author": "",
   "license": "ISC",
